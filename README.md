@@ -1,6 +1,10 @@
-# Place reference links to your Project Wiki here and the name of your PCB repo folder:
+# OPEnS Staff - Place reference links to your Project Wiki and PCB name here:
+<!-- Copy an example below and fill in your information directly below this comment -->
+## [SmartRock](https://github.com/OPEnSLab-OSU/SmartRock)
 
-% -----
+MS580302 Pressure [board](https://github.com/OPEnSLab-OSU/SmartRock/blob/master/MS5803/SmartRockMS5803.brd),
+[schematic](https://github.com/OPEnSLab-OSU/SmartRock/blob/master/MS5803/SmartRockMS5803.sch)
+
 ## [Hypnos](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos)
 
 Hypnos V2 [board](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.brd),
@@ -17,7 +21,4 @@ Rod [board](https://github.com/OPEnSLab-OSU/PNNLFluxV1/blob/master/Rod-Board/rod
 MS580302 Pressure/EC sensor [board](https://github.com/OPEnSLab-OSU/PNNLFluxV1/blob/master/MS5803-02BA/MS5803-02BAv2.brd),
 [schematic](https://github.com/OPEnSLab-OSU/PNNLFluxV1/blob/master/MS5803-02BA/MS5803-02BAv2.sch)
 
-## [SmartRock](https://github.com/OPEnSLab-OSU/SmartRock)
 
-MS580302 Pressure [board](https://github.com/OPEnSLab-OSU/SmartRock/blob/master/MS5803/SmartRockMS5803.brd),
-[schematic](https://github.com/OPEnSLab-OSU/SmartRock/blob/master/MS5803/SmartRockMS5803.sch)
