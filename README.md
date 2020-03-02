@@ -1,4 +1,5 @@
-# OPEnS Staff - Place reference links to your Project Wiki and PCB name here:
+# Project Links
+OPEnS Staff - Place links to your Project Wiki and PCB here:
 <!-- Copy an example below and fill in your information directly below this comment -->
 ## [SmartRock](https://github.com/OPEnSLab-OSU/SmartRock)
 
