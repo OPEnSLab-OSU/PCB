@@ -8,7 +8,7 @@ MS580302 Pressure [board](https://github.com/OPEnSLab-OSU/SmartRock/blob/master/
 
 ## [Hypnos](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos)
 
-Hypnos V2 [board](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.brd),
+New* Hypnos V3 [board](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.brd),
 [schematic](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.sch)
 
 ## [PNNL Flux Tool](https://github.com/OPEnSLab-OSU/PNNLFluxV1)
