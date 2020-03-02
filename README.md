@@ -1,4 +1,6 @@
-# PCB
+# Place reference links to your Project Wiki here and the name of your PCB repo folder:
+
+% -----
 ## [Hypnos](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos)
 
 Hypnos V2 [board](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.brd),
