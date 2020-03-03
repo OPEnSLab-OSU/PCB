@@ -7,7 +7,7 @@ Opens Staff - Once your PCB is added place project links and most recent board f
 
 ## [Hypnos](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos)
 
-*New* V3 Board [Hypnos 12V](https://github.com/OPEnSLab-OSU/PCB/tree/master/Hypnos)
+**New* V3 Board [Hypnos 12V](https://github.com/OPEnSLab-OSU/PCB/tree/master/Hypnos)
 
 ## [PNNL Flux Tool](https://github.com/OPEnSLab-OSU/PNNLFluxV1)
 
@@ -22,4 +22,4 @@ MS580302 [Pressure/EC sensor](https://github.com/OPEnSLab-OSU/PCB/tree/master/PN
 ## [SmartRock](https://github.com/OPEnSLab-OSU/SmartRock)
 
 MS580302 Pressure [MS5803](https://github.com/OPEnSLab-OSU/PCB/tree/master/SmartRock/MS5803),
-[HydroPCB](https://github.com/OPEnSLab-OSU/PCB/tree/master/SmartRock/HydroPCB)
+HydroPCB [HydroPCB](https://github.com/OPEnSLab-OSU/PCB/tree/master/SmartRock/HydroPCB)
