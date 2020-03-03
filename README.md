@@ -1,8 +1,8 @@
 # Project List
-Opens Staff - Once your PCB is added place project links and most recent board file links here for quick access 
-
 ## [Library Files](https://github.com/OPEnSLab-OSU/PCB/tree/master/OPEnS_Library)
+Managed Libraries Folder *Coming Soon*
 
+Opens Staff - Once your PCB is added place project links and most recent board file links here for quick access 
 <!-- Copy an existing entry and add your project links directly below this comment -->
 ## [Sapflow](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home/wiki/Sap-Flow-Meter)
 
