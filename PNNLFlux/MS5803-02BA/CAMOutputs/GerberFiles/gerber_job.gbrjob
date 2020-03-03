@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-26T21:45:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MS5803-02BAv2"
+        },
+        "Owner": "Zack Pelster <pelsterz@oregonstate.edu>",
+        "Size": {
+            "X": 11.684,
+            "Y": 11.684
+        }
+    }
+}

@@ -1,0 +1,11 @@
+Partlist exported from /home/zack/EAGLE/projects/PNNLFluxV1/MS5803-02BA/MS5803-02BAv2.sch at 11/26/19 1:45 PM
+
+Qty Value       Device      Package     Parts  Description                POPULARITY SPICEPREFIX
+1   0.1uF       C-EUC0805   C0805       C1     CAPACITOR, European symbol 88         C          
+2   1.87k       R-EU_R0805  R0805       R1, R2 RESISTOR, European symbol  86         R          
+1   EC          PINHD-1X1   1X01        JP3    PIN HEADER                 64                    
+1   GND         PINHD-1X1   1X01        JP5    PIN HEADER                 64                    
+1   MS5803-02BA MS5803-02BA MS5803-02BA U1                                                      
+1   SCL         PINHD-1X1   1X01        JP1    PIN HEADER                 64                    
+1   SDA         PINHD-1X1   1X01        JP2    PIN HEADER                 64                    
+1   VCC         PINHD-1X1   1X01        JP4    PIN HEADER                 64                    

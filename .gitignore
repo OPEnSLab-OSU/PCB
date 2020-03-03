@@ -1,0 +1,8 @@
+# Ignore PCB Background Files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
