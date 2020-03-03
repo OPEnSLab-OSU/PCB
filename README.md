@@ -1,4 +1,8 @@
-# PCB
+# Project List
+Opens Staff - Once your PCB is added place project links and most recent board file links here for quick access 
+
+<!-- Copy an existing entry and add your project links directly below this comment -->
+
 ## [Hypnos](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos)
 
 Hypnos V2 [board](https://github.com/OPEnSLab-OSU/OPEnS-Hypnos/blob/master/Hypnos/Hypnos%20V2.brd),
