@@ -1,7 +1,7 @@
 # Project List
 Opens Staff - Clone this repo and make a folder for your PCB. Once your PCB is added, place project links and update board file links here 
 
-## [Library Files](https://github.com/OPEnSLab-OSU/PCB/tree/master/OPEnS_Library)
+## [EAGLE Library Files](https://github.com/OPEnSLab-OSU/PCB/tree/master/OPEnS_Library)
 Managed Libraries Folder *Coming Soon*
 
 <!-- Copy an existing entry and add your project links directly below this comment -->
