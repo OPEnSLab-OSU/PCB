@@ -1,0 +1,17 @@
+# Set the default
+* text=auto
+
+# Specify text files
+*.brd text
+*.sch text
+*.lbr text
+*.dru text
+*.cam text
+*.xml text
+
+# Ignore the binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.xlsx binary
